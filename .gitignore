@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+
+# Data & artifacts
+data/
+models/
+artifacts/
+mlruns/
+
+# OS
+.DS_Store
+Thumbs.db
